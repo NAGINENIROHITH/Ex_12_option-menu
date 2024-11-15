@@ -21,11 +21,9 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to print the text “optionmenu”.
 Developed by:  NAGINENI ROHITH
 Registeration Number : 212222040105
-*/
 ```
 ## Activity_main.xml
 ```
